@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "POI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3832" } },
+"features": [
+
+]
+}

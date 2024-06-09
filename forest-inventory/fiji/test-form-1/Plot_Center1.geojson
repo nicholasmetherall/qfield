@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Plot_Center1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3832" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Surveyor": null, "Date": null, "Plot_Shape": null, "Radius_m": null, "Notes": null, "Species 1": null, "Count 1": null, "Species 2": null, "Count 2": null, "Species 3": null, "Count 3": null, "Species_1s": null, "Count 1s": null, "Species 2s": null, "Count 2s": null, "Species 3s": null, "Count 3s": null }, "geometry": { "type": "Point", "coordinates": [ 3268251.043118019588292, -1842410.673186341300607 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Surveyor": null, "Date": null, "Plot_Shape": null, "Radius_m": null, "Notes": null, "Species 1": null, "Count 1": null, "Species 2": null, "Count 2": null, "Species 3": null, "Count 3": null, "Species_1s": null, "Count 1s": null, "Species 2s": null, "Count 2s": null, "Species 3s": null, "Count 3s": null }, "geometry": { "type": "Point", "coordinates": [ 3268858.007764001842588, -1842760.393609612248838 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Surveyor": null, "Date": null, "Plot_Shape": null, "Radius_m": null, "Notes": null, "Species 1": null, "Count 1": null, "Species 2": null, "Count 2": null, "Species 3": null, "Count 3": null, "Species_1s": null, "Count 1s": null, "Species 2s": null, "Count 2s": null, "Species 3s": null, "Count 3s": null }, "geometry": { "type": "Point", "coordinates": [ 3269355.241954970639199, -1843089.75393834640272 ] } }
+]
+}
