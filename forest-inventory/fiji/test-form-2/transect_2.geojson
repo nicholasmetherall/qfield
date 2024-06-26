@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "transect_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "surveyor": null, "date": null, "type": null, "site_name": null, "notes": null, "length": 96 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 179.08715994489512, -16.70765804772191 ], [ 179.087170014646119, -16.706790027501185 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "surveyor": "nm", "date": "2024-06-01", "type": "main", "site_name": "drawa_test", "notes": "test", "length": 265 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 179.089200800213462, -16.708213216918494 ], [ 179.08748642510372, -16.708205983453997 ], [ 179.086716089151309, -16.708220450382708 ] ] ] } }
+]
+}
