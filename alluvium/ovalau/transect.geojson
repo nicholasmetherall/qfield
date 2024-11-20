@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "transect",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "surveyor": null, "date": null, "time": null, "notes": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 178.436706986709652, -18.19282947674203 ], [ 178.436706986709652, -18.192761038453554 ], [ 178.444440513307399, -18.192761038453554 ], [ 178.444440513307399, -18.19282947674203 ], [ 178.436706986709652, -18.19282947674203 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "surveyor": null, "date": null, "time": null, "notes": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 178.428083762361723, -18.19098164295319 ], [ 178.43650167184424, -18.190434136645383 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "surveyor": null, "date": null, "time": null, "notes": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 178.768370299872572, -17.738167850882576 ], [ 178.771197064404049, -17.740100069676242 ] ] ] } }
+]
+}
