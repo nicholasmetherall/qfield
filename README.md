@@ -11,8 +11,6 @@ Python scripts are used to automate the visualisation of the outputs of field da
 
 Insert flow chart
 
-
-GEO LDN
 Need to clone
 one day
 
