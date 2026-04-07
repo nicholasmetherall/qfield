@@ -14,9 +14,6 @@ Insert flow chart
 Need to clone
 one day
 
-
-All done to do ay
-
 Work on c-bed
 
 Windicator
