@@ -11,9 +11,6 @@ Python scripts are used to automate the visualisation of the outputs of field da
 
 Insert flow chart
 
-Need to clone
-one day
-
 Work on c-bed
 
 Windicator
