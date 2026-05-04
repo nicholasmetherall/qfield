@@ -15,6 +15,6 @@ Windicator
 
 Hydrophysics Bua
 
-lulc-wetlands complete
+lulc-wetlands compete
 hydro modelling next
 We made it through MMC
