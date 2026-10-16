@@ -16,3 +16,6 @@ Windicator
 Missed Nadarivatu twice ... :(
 
 Need to overcome severity
+
+
+Finally got HDA
